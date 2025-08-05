@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">🛡️ Sedef Timur</h1>
+<p align="center">
+  👩‍🎓 Computer Engineering Graduate · 🎓 MSc Student in Cybersecurity · 🔐 Cryptography & AI Enthusiast
+</p>
 
-<!--
-**sedeftimurr/sedeftimurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🇹🇷 <i>Türkçe için aşağı kaydırın / Scroll down for Turkish</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 About Me
+
+Hi! I'm Sedef — a computer engineering graduate currently pursuing a **master’s degree in cybersecurity**. My main interests lie in AI-powered security systems and modern data hiding techniques.
+
+- 🔐 **Cryptography**, **Steganography**, and **Data Security**
+- 🧠 **Deep Learning** for attack & defense in cybersecurity
+- 🐍 Developing low-level systems with **Python** and **C**
+
+---
+
+## 🛠️ Skills
+
+- 🔸 **Languages**: `Python`, `C`, `C++`, `JavaScript`
+- 🔸 **Fields**: Cryptography · Steganography · Deep Learning · Image Processing · Adversarial Learning
+- 🔸 **Libraries & Tools**: PyTorch, NumPy, OpenCV, reedsolo, Matplotlib
+- 🔸 **Dev Tools**: Git, Kaggle, VSCode, Jupyter, Linux
+
+---
+
+## 🎓 Education
+
+- 🎓 **BSc** – Computer Engineering, *Bursa Uludağ University*
+- 🎓 **MSc** – Cybersecurity, *Sakarya University*
+
+---
+
+## 📫 Contact
+
+- GitHub: [@sedeftimurr](https://github.com/sedeftimurr)
+- Email: sedeftimurrr@gmail.com
+
+---
+
+📝 *This profile reflects my journey in building secure, AI-powered systems with a focus on cryptography, steganography, and low-level programming.*
+
+---
+
+<br>
+<hr>
+<br>
+
+<h2 align="center">🇹🇷 Türkçe</h2>
+
+---
+
+## 🧬 Hakkımda
+
+Merhaba! Ben Sedef. Bilgisayar mühendisliği mezunuyum ve şu anda **siber güvenlik alanında yüksek lisans** yapıyorum. İlgi alanlarımın merkezinde, güvenliğe yönelik yapay zekâ uygulamaları ve veri gizleme teknikleri yer alıyor.
+
+- 🔐 **Kriptografi**, **Steganografi**, **Veri Güvenliği**
+- 🧠 **Derin Öğrenme** ve **Yapay Zekâ Destekli Saldırı/Savunma Sistemleri**
+- 🐍 **Python** ve **C dili** ile sistem düzeyinde uygulamalar geliştirme
+
+---
+
+## 🛠️ Yetenekler
+
+- 🔸 **Programlama Dilleri**: `Python`, `C`, `C++`, `JavaScript`
+- 🔸 **Uzmanlık Alanları**: Kriptografi · Steganografi · Derin Öğrenme · Görüntü İşleme · Adversarial Learning
+- 🔸 **Kütüphaneler & Teknolojiler**: PyTorch, NumPy, OpenCV, reedsolo, Matplotlib
+- 🔸 **Araçlar**: Git, Kaggle, VSCode, Jupyter, Linux
+
+---
+
+## 🎓 Eğitim
+
+- 🎓 **Lisans** – Bilgisayar Mühendisliği, *Bursa Uludağ Üniversitesi*
+- 🎓 **Yüksek Lisans** – Siber Güvenlik, *Sakarya Üniversitesi*
+
+---
+
+## 📫 İletişim
+
+- GitHub: [@sedeftimurr](https://github.com/sedeftimurr)
+- E-posta: sedeftimurrr@gmail.com
+
+---
+
+📝 *Bu profil; güvenliğe odaklı yapay zekâ uygulamaları, sistem düzeyinde yazılım geliştirme ve kriptografi alanındaki projelerimi yansıtmaktadır.*
