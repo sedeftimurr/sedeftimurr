@@ -48,8 +48,6 @@ Hi! I'm Sedef — a computer engineering graduate currently pursuing a **master�
 ---
 
 <br>
-<hr>
-<br>
 
 ## 📊 GitHub Stats
 
