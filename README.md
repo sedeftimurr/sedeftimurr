@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Sedef Timur</h1>
+<h1 align="center">Melek Sedef Timur</h1>
 <p align="center">
   👩‍🎓 Computer Engineering Graduate · 🎓 MSc Student in Cybersecurity · 🔐 Cryptography & AI Enthusiast
 </p>
