@@ -39,6 +39,7 @@ Hi! I'm Sedef — a computer engineering graduate currently pursuing a **master�
 
 - GitHub: [@sedeftimurr](https://github.com/sedeftimurr)
 - Email: sedeftimurrr@gmail.com
+- LinkedIn: [linkedin.com/in/sedeftimur](https://www.linkedin.com/in/sedeftimur)
 
 ---
 
@@ -84,7 +85,7 @@ Merhaba! Ben Sedef. Bilgisayar mühendisliği mezunuyum ve şu anda **siber güv
 
 - GitHub: [@sedeftimurr](https://github.com/sedeftimurr)
 - E-posta: sedeftimurrr@gmail.com
-
+- LinkedIn: [linkedin.com/in/sedeftimur](https://www.linkedin.com/in/sedeftimur)
 ---
 
 📝 *Bu profil; güvenliğe odaklı yapay zekâ uygulamaları, sistem düzeyinde yazılım geliştirme ve kriptografi alanındaki projelerimi yansıtmaktadır.*
