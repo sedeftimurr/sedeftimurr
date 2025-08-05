@@ -56,6 +56,13 @@ Hi! I'm Sedef — a computer engineering graduate currently pursuing a **master�
 ![Sedef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedeftimurr&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedeftimurr&layout=compact&theme=radical)
 
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
 ---
 
