@@ -51,7 +51,11 @@ Hi! I'm Sedef — a computer engineering graduate currently pursuing a **master�
 <hr>
 <br>
 
-<h2 align="center">🇹🇷 Türkçe</h2>
+## 📊 GitHub Stats
+
+![Sedef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedeftimurr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedeftimurr&layout=compact&theme=radical)
+
 
 ---
 
